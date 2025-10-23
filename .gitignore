@@ -1,0 +1,17 @@
+# ¡NUNCA SUBIR DATOS PRIVADOS!
+*.xlsx
+*.xls
+*.csv
+
+# Carpetas de entorno virtual
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo/IDE
+.DS_Store
+.vscode/
+.idea/
